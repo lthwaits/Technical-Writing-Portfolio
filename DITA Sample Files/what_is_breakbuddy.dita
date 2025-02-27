@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_breakbuddy">
+    <title>What is BreakBuddy?</title>
+    <shortdesc>BreakBuddy is a <i>health and well-being </i>app for IOS or and Apple devices. </shortdesc>
+    <conbody>
+        <p> BreakBuddy is an app that turns your device into a health buddy. You can use the app to
+            incorporate breaks into your day, get stretch ideas, set music break options, and create
+            reminders every hour to take care of your physical and mental health.</p>
+        <p>BreakBuddy makes it easier to make your health a priority. <xref
+                href="getting_started.dita"/><fig id="fig_egt_pwt_g2c">
+                <title>BreakBuddy Related Information and Troubleshooting</title>
+                <p>
+                    <imagemap id="imagemap_pfp_qwt_g2c">
+                        <image href="infographic.png" id="image_ryg_qpl_m2c"/>
+                        <area>
+                            <shape>circle</shape>
+                            <coords>75, 88, 40</coords>
+                            <xref href="setting_up_daily_reminders.dita" format="dita">How to set up
+                                daily reminders in BreakBuddy.</xref>
+                        </area>
+                        <area>
+                            <shape>circle</shape>
+                            <coords>441, 94, 40</coords>
+                            <xref href="customizing_breaks.dita" format="dita">How to customize
+                                breaks in BreakBuddy</xref>
+                        </area>
+                        <area>
+                            <shape>circle</shape>
+                            <coords>84, 414, 38</coords>
+                            <xref href="stretch_ideas.dita" format="dita">Stretch Ideas</xref>
+                        </area>
+                        <area>
+                            <shape>circle</shape>
+                            <coords>441, 416, 38</coords>
+                            <xref href="music_breaks.dita" format="dita">How to set up Music
+                                Breaks</xref>
+                        </area>
+                    </imagemap>
+                </p>
+            </fig></p>
+    </conbody>
+    <related-links>
+        <link href="troubleshooting.dita"/>
+    </related-links>
+</concept>

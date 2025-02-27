@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="getting_started_0">
+    <title>Getting Started</title>
+    <shortdesc> How to download  and setup BreakBuddy.</shortdesc>
+    <taskbody>
+        <context>These steps show you how to install and setup BreakBuddy on your
+            device.<p/></context>
+        <steps>
+            <step>
+                <cmd>Visit the <b>App Site</b> for IOS or iPhone.</cmd>
+            </step>
+            <step>
+                <cmd>Search for <b>BreakBuddy</b> and click <b>Install.</b></cmd>
+            </step>
+            <step>
+                <cmd>Open the app and follow the on-screen instructions to set up an account, once
+                    BreakBuddy is installed.</cmd>
+            </step>
+            <step>
+                <cmd>Launch BreakBuddy and create a new account.</cmd>
+            </step>
+            <step>
+                <cmd>Allow <b>Notifications</b> so BreakBuddy can remind you of your breaks.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

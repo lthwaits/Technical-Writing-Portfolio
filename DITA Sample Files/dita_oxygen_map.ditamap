@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map audience="novice" collection-type="choice">
+    <title>DITA Portfolio Map</title>
+    <topicref href="what_is_breakbuddy.dita"/>
+    <topicref href="getting_started.dita">
+        <topicref href="customizing_breaks.dita"/>
+        <topicref href="music_breaks.dita"/>
+        <topicref href="stretch_ideas.dita"/>
+        <topicref href="setting_up_daily_reminders.dita"/>
+    </topicref>
+    <topicref href="troubleshooting.dita"/>
+</map>
