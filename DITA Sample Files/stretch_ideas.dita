@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="stretch_ideas">
+    <title>Stretch Ideas</title>
+    <shortdesc> Ideas of types of stretches to do in BreakBuddy.</shortdesc>
+    <taskbody>
+        <context>The table below provides a description of stretch ideas for use during each stretch
+            break in the app. <table frame="all" rowsep="1" colsep="1" id="table_ch3_gzv_gdc"
+                audience="novice">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="5.23*"/>
+                    <thead>
+                        <row>
+                            <entry>Stretch</entry>
+                            <entry>Description</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row audience="novice">
+                            <entry>Neck</entry>
+                            <entry>Slowly tilt your head forward and hold for ten seconds, then tilt
+                                your head toward each shoulder and hold for ten seconds.</entry>
+                        </row>
+                        <row audience="novice">
+                            <entry>Wrist</entry>
+                            <entry>Hold out one arm, palm facing down, and use the other hand to
+                                gently pull back on each of your fingers. Repeat for the other arm. </entry>
+                        </row>
+                        <row audience="novice">
+                            <entry>Back</entry>
+                            <entry>Stand up, reach for the ceiling, and take a deep breath. Repeat
+                                six times.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></context>
+          
+    </taskbody>
+    <related-links>
+        <link href="what_is_breakbuddy.dita"/>
+        <link href="troubleshooting.dita"/>
+    </related-links>
+</task>
