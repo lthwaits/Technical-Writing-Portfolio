@@ -8,11 +8,7 @@ I am a writer with a focus on authoring and editing aerospace and defense indust
 * Technical Writing
 * Markdown Language
 * Version Control Systems
-* Document Design and Layout
-* Darwin Information Typing Architecture (DITA)
-* Graphic Design
-* Oxygen XML Author
-* RoboHelp
+
 
 ## Contact Me
 LinkedIn: [Leslie Thwaits](https://www.linkedin.com/in/leslie-thwaits-technical-writer)
